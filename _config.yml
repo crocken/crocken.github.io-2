@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Testing Waters
 description: That's all.
+remote_theme: mmistakes / skinny-bones-jekyll
